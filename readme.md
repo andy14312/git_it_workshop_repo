@@ -1,0 +1,1 @@
+This repository is created as part of 'git-it' workshop of nodeschool.io workshops. You can find challenge files in this repo.
